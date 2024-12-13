@@ -128,5 +128,6 @@ Negras: 24
 Empate!
 ````
 
-![IMG_0958.jpeg](..%2F..%2F..%2FPictures%2FIMG_0958.jpeg)
-![IMG_0959.jpeg](..%2F..%2F..%2FPictures%2FIMG_0959.jpeg)
+
+![img_5.png](img_5.png)
+![img_6.png](img_6.png)
