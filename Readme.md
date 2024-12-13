@@ -49,7 +49,7 @@ O código inclúe catro funcións principais para realizar operacións sobre o t
     - Fichas `Negras (N)` nas últimas 3 filas.
     - As filas centrais permanecen baleiras (`.`).
 - **Retorno:** Un taboleiro `char[][]` de 8x8 coas fichas colocadas.
-
+![img_1.png](img_1.png)
 ---
 
 ### 2. **contarFichas**
@@ -59,7 +59,7 @@ O código inclúe catro funcións principais para realizar operacións sobre o t
   - `taboleiro`: Matriz 8x8 co estado do xogo.
   - `tipoFicha`: O tipo de ficha que se quere contar (`B` ou `N`).
 - **Retorno:** O número de fichas do tipo especificado.
-
+![img_2.png](img_2.png)
 ---
 
 ### 3. **imprimirTaboleiro**
@@ -70,7 +70,7 @@ O código inclúe catro funcións principais para realizar operacións sobre o t
 - **Parámetros:**
   - `taboleiro`: Matriz 8x8 coas fichas.
 - **Retorno:** O número de casillas baleiras (`.`).
-
+![img_3.png](img_3.png)
 ---
 
 ### 4. **imprimirTaboleiroCompleto**
@@ -80,7 +80,7 @@ O código inclúe catro funcións principais para realizar operacións sobre o t
 - **Parámetros:**
   - `taboleiro`: Matriz 8x8 co estado do xogo.
 - **Retorno:** Ningún, só imprime o taboleiro.
-
+![img_4.png](img_4.png)
 ---
 
 ## 🚀 Execución
@@ -104,7 +104,7 @@ DamasDemo.java
   ├── imprimirTaboleiroCompleto() -> Mostra o taboleiro como matriz.
  ````
   
-## 📂 Estrutura do código
+## 📂 Retorno por pantalla
 ```plaintext
 ----- Taboleiro Completo -----
 B B B B B B B B 
